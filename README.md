@@ -127,5 +127,5 @@ This project is powered by the Groq API and Streamlit framework.
 
 For any queries, feel free to reach out to me:
 
-- **GitHub**: Saoud30
-- **Email**: mohdhashimansari30@gmail.com
+GitHub: your-github-saoud30
+Email: your-sarimansari30.com
