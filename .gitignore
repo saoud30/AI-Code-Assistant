@@ -26,13 +26,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# Virtual environments
-.venv/
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+
+
 
 # Test result files
 .coverage
@@ -70,13 +65,9 @@ coverage.xml
 Thumbs.db
 Desktop.ini
 
-# Python environment variable files
-*.envrc
-.env.*.local
 
 # GitHub Actions workflows
 .github/workflows/
 
 # Anaconda environments
 *.conda
-*.env
