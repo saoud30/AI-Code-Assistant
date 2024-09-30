@@ -1,8 +1,3 @@
-
-Here's the README.md formatted version of the content:
-
-markdown
-Copy code
 # 🖥️ Versatile Code Assistant
 
 Versatile Code Assistant is an AI-powered tool that helps you generate code and answer programming-related questions. It supports multiple programming languages and allows users to switch between **Code Generation** and **Conversation** modes.
