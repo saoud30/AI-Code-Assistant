@@ -123,9 +123,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This project is powered by the Groq API and Streamlit framework.
 
-## 📧 Contact
-
-For any queries, feel free to reach out to me:
-
-GitHub: your-github-saoud30
-Email: your-sarimansari30.com
